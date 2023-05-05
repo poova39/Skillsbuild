@@ -8,3 +8,4 @@ Text added to test normal text
 2. Create project
 3. Add text
 4. Commit Readme file
+5. Add file and commit
